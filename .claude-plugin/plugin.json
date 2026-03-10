@@ -1,5 +1,5 @@
 {
-  "name": "terraform-plugin",
+  "name": "custom-plugin",
   "description": "A simple greeting plugin to learn the basics",
   "version": "1.0.0",
   "author": {
