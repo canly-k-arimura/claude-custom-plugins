@@ -8,6 +8,11 @@
       "name": "terraform-plugin",
       "source": "./plugins/terraform-plugin",
       "description": "terraform plugin"
+    },
+    {
+      "name": "github-actions-plugin",
+      "source": "./plugins/github-actions-plugin",
+      "description": "github-actions plugin"
     }
   ]
 }
